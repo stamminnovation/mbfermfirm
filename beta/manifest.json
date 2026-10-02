@@ -3,12 +3,12 @@
   "channel": "beta",
   "target": "riprapt",
   "board": "esp-wrover-kit",
-  "version": "0.2.140",
-  "build": 140,
-  "gitHash": "15866259",
-  "sourceCommit": "1586625912ac545306f822dc09c982ebd6c4b5b8",
-  "publishedAt": "2026-10-01T17:13:23.567571Z",
+  "version": "0.2.159",
+  "build": 159,
+  "gitHash": "feee85f1",
+  "sourceCommit": "feee85f1dde747c80d633bb79746d83a18fbb4b9",
+  "publishedAt": "2026-10-02T01:00:28.206504Z",
   "firmwareUrl": "https://raw.githubusercontent.com/stamminnovation/mbfermfirm/main/beta/firmware.bin",
-  "sha256": "b008bfe2ed64c7d3dcb779e03b37b067a8b371fdc3a4de07704f51a6b78f8e96",
-  "size": 1299104
+  "sha256": "fea20b523ed9be36539ede9026f7eeef8ba2ba3d520da57eadd44e5f159245b9",
+  "size": 1312128
 }
